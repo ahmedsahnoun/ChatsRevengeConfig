@@ -13,6 +13,18 @@
           }
         ]
       },
+      "Teleport": {
+        "id": "lethalcompany_teleport",
+        "unique": true,
+        "disabled": true,
+        "input": false,
+        "variants": [
+          {
+            "duration": null,
+            "price": "300"
+          }
+        ]
+      },
       "Double Credits": {
         "id": "lethalcompany_doubleCredits",
         "unique": true,
@@ -21,7 +33,7 @@
         "variants": [
           {
             "duration": null,
-            "price": 1
+            "price": "300"
           }
         ]
       },
@@ -33,19 +45,7 @@
         "variants": [
           {
             "duration": null,
-            "price": 1
-          }
-        ]
-      },
-      "Teleport": {
-        "id": "lethalcompany_teleport",
-        "unique": true,
-        "disabled": true,
-        "input": false,
-        "variants": [
-          {
-            "duration": null,
-            "price": 1
+            "price": "300"
           }
         ]
       },
