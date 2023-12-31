@@ -350,28 +350,28 @@
             "price": 1
           },
           {
-            "duration": "1",
+            "duration": "2",
+            "price": "100"
+          },
+          {
+            "duration": "2",
             "price": "100"
           },
           {
             "duration": "1",
-            "price": "100"
+            "price": "150"
           },
           {
             "duration": "1",
-            "price": "100"
+            "price": "200"
           },
           {
             "duration": "1",
-            "price": "100"
+            "price": "200"
           },
           {
             "duration": "1",
-            "price": "100"
-          },
-          {
-            "duration": "1",
-            "price": "100"
+            "price": "250"
           },
           {
             "duration": "1",
