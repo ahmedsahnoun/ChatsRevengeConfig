@@ -9,26 +9,26 @@
         "variants": [
           {
             "duration": null,
-            "price": 100
+            "price": 1
           }
         ]
       },
       "Teleport": {
         "id": "lethalcompany_teleport",
         "unique": true,
-        "disabled": false,
+        "disabled": true,
         "input": false,
         "variants": [
           {
             "duration": null,
-            "price": "300"
+            "price": 1
           }
         ]
       },
       "Double Credits": {
         "id": "lethalcompany_doubleCredits",
         "unique": true,
-        "disabled": false,
+        "disabled": true,
         "input": false,
         "variants": [
           {
